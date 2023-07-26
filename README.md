@@ -32,7 +32,7 @@ Basically,The goal is to validate the system's functionality and ensure successf
 
 ## How to run
 - Install & Run JMeter software
-- Download this "demo-transaction-api-jmeter.jmx" file
+- Download this "jmtrassgn2.jmx" file
 - Save this .jmx file into apache "bin" folder
 - Run "ApacheJMeter.jar"
 
